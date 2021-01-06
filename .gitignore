@@ -7,3 +7,5 @@
 *.gif
 
 */.ipynb_checkpoints
+
+*.csv
