@@ -3,3 +3,7 @@
 *.png
 
 *.zip
+
+*.gif
+
+*/.ipynb_checkpoints
