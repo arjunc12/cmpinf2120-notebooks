@@ -1,0 +1,19 @@
+name: cmpinf2120
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - numpy
+  - matplotlib
+  - scipy
+  - seaborn
+  - statsmodels
+  - scikit-learn
+  - networkx
+  - pydotplus
+  - graphviz
+  - python-graphviz
+  - dtreeviz
+  - yfinance
+  - jupyterlab
+prefix: /Users/arjunchandrasekhar/opt/anaconda3/envs/cmpinf2120
