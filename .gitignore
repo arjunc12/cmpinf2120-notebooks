@@ -9,3 +9,7 @@
 */.ipynb_checkpoints
 
 *.txt
+
+*.RData
+
+*.Rhistory
