@@ -16,4 +16,8 @@ dependencies:
   - dtreeviz
   - yfinance
   - jupyterlab
+  - lifelines
+  - pymc3
+  - arviz
+  - kneed
 prefix: /Users/arjunchandrasekhar/opt/anaconda3/envs/cmpinf2120
